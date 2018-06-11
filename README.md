@@ -21,7 +21,7 @@ The API endpoints will be available by default at: `http://localhost:3001/insigh
 
 - [Bitcore 5.x](https://github.com/bitpay/bitcore)
 
-**Note:** You can use an existing Bitcoin data directory, however `txindex`, `addressindex`, `timestampindex` and `spentindex` needs to be set to true in `bitcoin.conf`, as well as a few other additional fields.
+**Note:** You can use an existing Bitcoin data directory, however `txindex`, `addressindex`, `timestampindex` and `spentindex` needs to be set to true in `bitcoinfile.conf`, as well as a few other additional fields.
 
 ## Notes on Upgrading from v0.3
 
