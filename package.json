@@ -67,7 +67,7 @@
   ],
   "dependencies": {
     "async": "*",
-    "bitcore-lib": "^0.13.7",
+    "bitcore-lib": "https://github.com/sinabs/bitcore-lib.git#bifi",
     "bitcore-message": "^1.0.1",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
@@ -102,7 +102,7 @@
   "name": "insight-api",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bitpay/insight-api.git"
+    "url": "git://github.com/sinabs/insight-api.git"
   },
   "scripts": {
     "test": "NODE_ENV=test mocha -R spec --recursive"
