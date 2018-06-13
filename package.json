@@ -68,7 +68,7 @@
   "dependencies": {
     "async": "*",
     "bitcore-lib": "https://github.com/sinabs/bitcore-lib.git#bifi",
-    "bitcore-message": "^1.0.1",
+    "bitcore-message": "https://github.com/sinabs/bitcore-message.git#bifi",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
@@ -76,7 +76,7 @@
     "morgan": "^1.7.0",
     "request": "^2.64.0"
   },
-  "description": "A Bitcoin blockchain REST and web socket API service for Bitcore Node.",
+  "description": "A Bitcoinfile blockchain REST and web socket API service for Bitcore Node.",
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^2.4.5",
@@ -87,7 +87,7 @@
   "engines": {
     "node": ">=0.12.0"
   },
-  "homepage": "https://github.com/bitpay/insight-api",
+  "homepage": "https://github.com/sinabs/insight-api",
   "keywords": [
     "insight",
     "insight api",
