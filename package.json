@@ -69,12 +69,12 @@
     "async": "*",
     "bitcore-lib": "https://github.com/sinabs/bitcore-lib.git#bifi",
     "bitcore-message": "https://github.com/sinabs/bitcore-message.git#bifi",
-    "body-parser": "^1.13.3",
-    "compression": "^1.6.1",
+    "body-parser": "^1.18.3",
+    "compression": "^1.7.2",
     "lodash": "^4.17.10",
-    "lru-cache": "^4.0.1",
-    "morgan": "^1.7.0",
-    "request": "^2.64.0"
+    "lru-cache": "^4.1.3",
+    "morgan": "^1.9.0",
+    "request": "^2.87.0"
   },
   "description": "A Bitcoinfile blockchain REST and web socket API service for Bitcore Node.",
   "devDependencies": {
